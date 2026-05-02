@@ -1,6 +1,17 @@
 # Codex Pets：Will 保哥
 
-這裡提供一個以 Will 保哥為主題的 Codex 寵物 ([Codex Pets](https://developers.openai.com/codex/app/settings#codex-pets))。
+這裡提供一款以 Will 保哥為主題的 Codex 寵物：[Codex Pets](https://developers.openai.com/codex/app/settings#codex-pets)。
+
+安裝之後，你寫 Code 時就不再是孤軍奮戰。
+
+每當你準備硬幹、亂猜、跳過測試、直接上 Production 的時候，牠就會在旁邊用保哥的眼神看著你，彷彿在說：
+
+「你確定這樣寫，三個月後的你不會回來罵今天的你嗎？」
+
+副作用是：
+你可能會開始補文件、補測試、重構命名，甚至突然想吃雞排。
+
+![image](spritesheet.webp)
 
 ## 內容
 
