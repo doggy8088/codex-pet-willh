@@ -9,6 +9,12 @@
 
 ## 安裝
 
+最簡單的安裝方式是在 Codex app 直接輸入以下提示詞：
+
+```text
+安裝 doggy8088/codex-pet-willh repo 的 Codex Pet 給我的 Codex app 使用
+```
+
 請在終端機執行：
 
 ```sh
