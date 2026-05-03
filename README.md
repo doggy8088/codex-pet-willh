@@ -85,7 +85,7 @@ Remove-Item -Path "$env:TEMP\willh.codex-pet.zip"
 
 **動作列對應：**
 
-| 列 | 動作 |
+| 列 (從 0 開始) | 動作 |
 |----|------|
 | 0 | idle |
 | 1 | running-right |
