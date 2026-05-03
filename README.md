@@ -47,8 +47,8 @@ Invoke-WebRequest -Uri "https://doggy8088.github.io/codex-pet-willh/willh.codex-
 # 解壓縮到正確位置
 Expand-Archive -Path "$env:TEMP\willh.codex-pet.zip" -DestinationPath "$env:USERPROFILE\.codex\avatars\willh" -Force
 
-# 複製 pet.json 為 avatar.json（Codex Desktop 需要）
-Copy-Item -Path "$env:USERPROFILE\.codex\avatars\willh\pet.json" -Destination "$env:USERPROFILE\.codex\avatars\willh\avatar.json" -Force
+# 清理暫存檔
+Remove-Item -Path "$env:TEMP\willh.codex-pet.zip"
 ```
 
 > **⚠️ Windows 注意事項：**
